@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomCrey, student and sport lover
-- 👀 I’m interested in bioinformatics, structural biology, images processing and AI
+- 👀 I’m interested in bioinformatics, structural biology, images processing, data sciences and AI
 - 🌱 I’m currently learning bioinformatics in Nantes Université (FRANCE)
 - 📫 How to reach me ? By e-mail to the following address: titom.crey@gmail.com
 - ⚡ Fun fact: in the past, I was a french paralympic athlete in alpine skiing
